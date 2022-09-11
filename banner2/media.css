@@ -1,0 +1,68 @@
+@media(min-width:900px){
+body{
+	margin:0;
+	padding:0;
+	box-sizzing:border-box;
+}
+section{
+	background:#e1f4f7;
+	height:100vh;
+}
+.container{
+	display:flex;
+	width:90%;
+	margin:auto;
+	padding:100px 0 0 0;
+}
+.item1{
+	width:50%;
+	
+}
+.head{
+	font-size:25px;
+	color:#6aacf7;
+}
+b{
+	color:#2b5fed;
+}
+.para{
+	color:grey;
+}
+.divition1{
+	background:#fff;
+	border-radius:3px;
+	margin:10px;
+	padding:4px 10px;
+}
+.divition1 h5{
+	color:#53dff5;
+}
+span{
+	color:#53dff5;
+}
+p ion-icon{
+	display:block;
+	float:right;
+	float:top;
+}
+h5 ion-icon{
+	display:inline-block;
+	float:right;
+}
+.divition2{
+	background:#fff;
+	border-radius:3px;
+	margin:10px;
+	padding:5px 5px 5px 5px;
+}
+.divition3{
+	background:#fff;
+	border-radius:3px;
+	margin:10px;
+	padding:5px 5px 5px 5px;
+}
+.item2{
+	width:50%;
+	
+}
+}
