@@ -1,0 +1,66 @@
+body{
+	margin:0;
+	padding:0;
+	box-sizzing:border-box;
+}
+.logo{
+	background:#def4fa;
+	width:100%;
+	text-align:center;
+}
+.logo1{
+	
+	width:100px;
+	filter:grayscale(10);
+
+}
+.container{
+	width:90%;
+	margin:auto;
+	
+}
+.head h1{
+	text-align:center;
+}
+.head p{
+	text-align:center;
+}
+.container1{
+}
+.item1{
+	width:100%;
+	
+	text-align:center;
+}
+.item2{
+	width:100%;
+	
+	text-align:center;
+}
+.item3{
+	width:100%;
+	
+	text-align:center;
+}
+.container1 ion-icon{
+	color:blue;
+	padding:0 3px;
+}
+img{
+	display:inline-block;
+	width:150px;
+	border-radius:50%;
+	margin:20px 0;
+}
+.content-color{
+	background:#d9fcfc;
+	border-radius:5px;
+	padding:20px 20px;
+}
+.radio{
+	text-align:center;
+}
+ion-icon{
+	display:inline-block;
+	
+}
