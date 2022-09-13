@@ -1,0 +1,47 @@
+body{
+	margin:0;
+	padding:0;
+	box-sizzing:border-box;
+}
+.service{
+	width:100%;
+	text-align:center;
+	margin:100px 0 0 0;
+	
+}
+.service h1{
+	color:
+}
+span{
+	display:inline-block;
+	font-size:40px;
+	font-weight:800px;
+	position:absolute;
+	top:76px;
+	left:30%;
+	opacity:0.1;
+}
+.container{
+	width:100%;
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+	margin:40px auto auto auto;
+}
+.item{
+	width:80%;
+
+	margin:30px 0 0 0;
+	text-align:center;
+	padding:30px 0 0 0;
+
+}
+li{
+	list-style-type:none;
+	
+}
+ion-icon{
+	display:inline-block;
+	color:green;
+	font-size:30px;
+}
